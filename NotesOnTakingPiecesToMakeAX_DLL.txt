@@ -1,0 +1,8 @@
+
+Copy individual BST classes into this folder.
+Load them into the AxBst.vbp project.
+Convert each class's "Instancing" property to 5 (MultiUse).
+All the PRODUCTION "Friend" procedures, change them to "Public".
+Make sure Binary Compatibility is set with prior compiled AxBst.DLL.
+Recompile.
+The AxBst.exp and AxBst.lib can be deleted.
